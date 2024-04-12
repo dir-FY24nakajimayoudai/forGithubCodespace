@@ -10,7 +10,7 @@ public class Main {
                 multiArray[i][j] = i + j + 1;
             }   
         }
-        System.out.println(multiArray[2][3]);
+        System.out.println(multiArray[1][3]);
 
     }
 
